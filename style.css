@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f8f8f8
+}
+div h1, div h2{
+    text-transform: uppercase;
+    text-align: center;
+}
+div img{
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+div h1 span{
+    color: orange;
+}
